@@ -1,5 +1,7 @@
 # Full-Stack TypeScript with React, Express, Tailwind, Drizzle, Vite
 
+👉 **View the live site here:** [90-Day Junior Developer Plan](https://crankyshorts.github.io/webstackpath/)
+
 This project utilizes a modern full-stack JavaScript/TypeScript ecosystem.
 
 **Frontend:**
